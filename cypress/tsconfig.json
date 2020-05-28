@@ -1,8 +1,0 @@
-{
-	"extends": "../tsconfig.json",
-	"compilerOptions": {
-		"types": ["@types/testing-library__cypress"],
-		"allowJs": true,
-		"checkJs": false
-	}
-}
